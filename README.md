@@ -64,13 +64,13 @@ The goal of this project is to generate business insights and create an interact
 ## Dashboard Screenshots
 
 ### Executive Overview
-![Executive Overview](Screenshots/executive_overview.png)
+![Executive Overview](Screenshots/Executive_Overview.png)
 
 ### Store Analysis
-![Store Analysis](Screenshots/store_analysis.png)
+![Store Analysis](Screenshots/Store_Analysis.png)
 
 ### Holiday Analysis
-![Holiday Analysis](Screenshots/holiday_analysis.png)
+![Holiday Analysis](Screenshots/Holiday_Analysis.png)
 
 
 ## Author
